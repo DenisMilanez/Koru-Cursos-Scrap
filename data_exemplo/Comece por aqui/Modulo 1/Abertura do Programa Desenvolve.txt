@@ -1,0 +1,563 @@
+Olá, tudo bem? Meu nome é Anderson,
+serei seu professor nesse conteúdo de
+dados e fazendo para você a minha
+autodescrição. Sou um homem branco com
+cabelos castanhos, estou utilizando uma
+camisa preta e uso barba.
+Fundamentos de dados. Módulo um,
+introdução aos dados. Bom, vamos começar
+então esse conteúdo de dados, tá? Nesse
+curso que você está fazendo agora. E eu
+quero começar apresentando para você um
+pouquinho sobre a minha vida, sobre a
+minha trajetória profissional até aqui,
+tá? Então você tá acompanhando no slide
+comigo, está aparecendo a minha foto aí
+e algumas qualificações, né? Então eu
+sou da área de TI, sou da área de
+tecnologia, me formei já há bastante
+tempo, tá? lá em 2001 e eu tenho aí 21
+anos de docência, onde eu tenho
+experiência tanto com ensino presencial
+quanto com o ensino à distância também,
+tá? Eh, também tenho eh cerca de 8 anos
+como analista de sistemas no mercado
+profissional, onde eu trabalhei com
+algumas linguagens de programação, tá?
+entre elas, eh, Delf, C#ARP, eh,
+Clipper, alguns bancos de dados também,
+Oracle, SQL Server, MySQL, entre outros,
+tá? Eh, também tive a oportunidade de
+trabalhar em uma software house. Que que
+é uma software house? É uma casa de
+software, tá? Então, é uma empresa que
+desenvolve sistemas para várias outras
+empresas de vários nichos, né? E eu já
+te dou uma dicas que se você tiver
+oportunidade de trabalhar em uma empresa
+assim, é muito legal para o seu
+crescimento profissional, porque você
+vai trabalhar com eh regras de negócios
+diferentes. Então, hoje você tá
+desenvolvendo, trabalhando em um projeto
+de uma empresa do varejo. Amanhã você
+pode ser alocado em uma empresa de eh
+recapadora de pneus, entre outras, entre
+outros nichos que nós temos, né, do agro
+e por aí vai. E se você for trabalhar em
+uma empresa que tem um departamento de
+tecnologia, por exemplo, ah, digamos que
+você vai trabalhar numa companhia aérea,
+você vai desenvolver sistemas, você vai
+trabalhar nesse nicho de sistemas, mas
+somente para esse segmento de companhias
+aéreas, tá? Então, percebe como a troca
+ali, né, o seu crescimento, eh, nesse
+caso, vai ser um pouco menor, tá bom?
+Bom, eh, e aí passei para algumas, eh,
+instituições de ensino também e hoje sou
+professor universitário. Eh, me dedico à
+docência aí desde do ano de 2012, tá?
+Sou formado em eh processamento de
+dados. Esse curso evoluiu um pouco,
+mudou o nome, né? É o análise e
+desenvolvimento desses temas. Eh, tem
+especialização também engenharia de
+software com o ML. O ML é uma
+metodologia para você fazer a parte de
+modelagem, né, de diagramação ali das
+funcionalidades de um sistema
+computacional, tá? De um software. E
+também tem uma outra especialização em
+metodologias do do ensino, metodologias
+ativas e sou mestre em ensino e
+tecnologia. Espero poder contribuir aí
+com o seu crescimento, tá bom? Vamos lá
+pro slide, então. Todos aí animados, né?
+Espero que você esteja animado e vamos
+começar aqui o nosso conteúdo eh nesse
+primeiro módulo. Estamos no módulo um,
+tá? E o tema aqui é uma introdução a
+essa área de dados, introdução aos
+dados, né? O que que é um dado e por que
+ele é importante, tá? Então, o que eu
+queria falar para você é o seguinte, que
+a todo momento nós estamos em contato
+com dados, nós estamos gerando dados,
+tá? Então você, provavelmente no dia de
+hoje você já se logou na sua rede
+social, você já assistiu um vídeo, então
+tudo isso você já está produzindo
+informações, né? Por exemplo, eh, a rede
+social que você se logou, ele já sabe a
+data que você logou, eh, onde você
+entrou, o que você clicou, quais os
+comentários que você fez, quais as fotos
+que você curtiu, se você fez alguma
+postagem ou não. E tudo isso vai gerando
+informações, vai gerando dados para essa
+plataforma. E aí você eh entra em um
+local lá e você consegue ver, por
+exemplo, a sua atividade, né, comparado,
+por exemplo, naquela semana ou então nos
+meses anteriores. E aí você vai gerando
+essa questão de comparação, que vai ser
+um tema bem legal, que nós vamos
+trabalhar bastante durante o nosso
+conteúdo aí de dados. Perfeito? Então
+vamos lá no slide. E aí é o seguinte,
+descrevendo para você, né, o que você
+está eh o que está sendo projetado agora
+no slide para você. Então, no canto
+direito, eu tenho uma foto ali de um
+smartphone, né, de um celular, eh, sendo
+projetado ali algum aplicativo de GPS,
+como o Waz ou então como Google Maps,
+como se fosse ali e uma trajetória onde
+que você vai percorrer de um ponto A até
+um ponto B. E aí tem alguns milestones
+também. O que que são milestones?
+Milestones são os marcos, né? Sabe
+quando você entra lá no Google, né? você
+entra em alguma plataforma de mapas que
+tem um mapa e aí você consulta o
+endereço e aí ele vai marcar ali então
+essa marcação, né? Então isso aí tem o
+nome de milestones, tá? Eh, na parte do
+meio do nosso slide, eu trouxe para você
+uma lista de compras, tá? Então é como
+se fosse uma lista de compras daquela
+que você faz no papel ou então daquela
+que você constrói no seu smartphone para
+que você lembrado, né? alguns casais,
+algumas famílias tem um grupo de lista,
+um grupo de compras, né? Compras do
+supermercado ali, de coisas que você tem
+que comprar paraa tua casa. E aí, eh,
+elas vão compartilhando daquela lista em
+conjunto, né? Então, quem vai lembrando
+o que que precisa comprar ou então
+acabou alguma coisa em casa, vai
+marcando ali para ficar uma lista de
+compras. É, é uma, é uma forma de você
+fazer uma lista de compras muito legal,
+tá? E eh porque ela tá sendo
+compartilhada e provavelmente quando
+você quando quem for, né, encarregado de
+ir no supermercado a próxima vez vai
+conseguir trazer tudo que tá na lista,
+vai eh evitar a a eh atos indesejados,
+que é você esquecer de comprar um item
+que era necessário, eh ou então você
+comprar coisas a mais que vai
+comprometer o seu orçamento, né? São
+aquelas dicas, é, ó, nunca vá no mercado
+com fome, senão você acaba comprando
+coisa que você não precisa. E sempre
+anote para você comprar somente o que tá
+na lista, para você gastar menos tempo
+no mercado, ser mais objetivo e também
+você evitar um retrabalho, né, entre
+aspas, né, que seria um retorno ao
+supermercado. De repente você esqueceu
+alguma coisa ali que tinha que ter na
+sua casa hoje, você vai ter que voltar,
+vai ter que perder tempo. Então tudo
+isso também é é um é ruim, né? Causa aí
+um desconforto aí para você mesmo, tá? E
+aí, abrindo o pequeno parênteses, né,
+agora com os assistentes que nós temos
+em casa, né, eh, exemplo, né, Alexa.
+Então você consegue também ter essa e
+facilidade, né, de utilizar a IoT, que
+são a internet das coisas, coisas
+automatizadas, né, automação
+residencial, cortina, eh quando você
+bate palma e acende a luz. Então você
+também consegue acionar esses
+assistentes e falar: "Olha, eh, Alexa,
+eh, inclui ovos aí na minha lista de
+compras, né?" E ela já inclui ali na sua
+lista digital, né? E ela você já pode
+estar com essa lista dentro do desse
+grupo do WhatsApp que vou, que eu
+mencionei. Aí você vai no mercado e você
+não vai esquecer de fazer essa compra,
+beleza? Então, voltando lá pro slide,
+por favor. Então, na parte do meio aí
+tem essa lista de compra, tem alguns
+itens, tá? tá separado em três colunas,
+bonitinho ali. E aí eu tenho eh como se
+fosse ali o código, né, do do rating que
+você tem ali e o que eh o que tá sendo
+comprado ali, o que vai ser o que vai
+ser comprado, né? Aí eu tenho arroz,
+feijão, enfim, os itens, certo? Então,
+nessa nesse primeiro slide, né, como a
+gente tá falando essa introdução, dando
+essa introdução para você, né, do que é
+dados e por eles são importantes, eh
+essa essa esse exemplo de lista de
+compras, né, traz já uma importância
+muito grande eh nesses dados, tá? Eh,
+daquilo que eu disse, quando você
+esquece de colocar os itens na lista,
+causa vários transtornos, né? Então, a
+importância tá ligada exatamente esse
+exemplo que eu dei, tá? Eh, e aí no
+texto que tá sendo projetado no slide,
+escrito abertura, né, nós temos também
+ali, ó, eh, o que vem, uma questão, uma
+reflexão, o que vem à sua mente quando
+escuta a palavra dados, né? Quando você
+escuta a palavra dados, o que você, o
+que vem à sua mente? E aí, é claro que a
+gente não tá falando daquele lá, daquele
+dado, né, dos jogos, né, de forma
+lúdica, que é aquele cubo, né, com seis
+lados ali que você vai utilizar para
+jogar e, por exemplo, alguns jogos de
+tabuleiros, né? Tem os dados presentes
+ali no meio do jogo, não são dados
+relacionados à informação, tá? Então,
+eh, continuando ali, ó. Pense em quantas
+vezes você usa dados sem perceber ao
+conferir a lista de compras, ao receber
+uma sugestão de filme na sua plataforma
+de streaming favorita, né? ou até mesmo
+quando você calcula a rota mais rápida
+para o trabalho, que daí já faz uma
+menção a essa imagem que tá no canto eh
+superior direito, que eu falei para você
+que é um smartphone e tem um aplicativo
+ali eh traçando a rota, né, com o GPS
+traçando a rota ali para você eh fazendo
+o cálculo dessa rota para você ir de um
+ponto A até 1 ponto B, tá? Então, a
+importância dos dados é gigantesca. E
+aquele aquele primeiro exemplo que eu
+disse, né? Quando você desde a hora que
+você levanta, você tá produzindo dados
+no dia todo, você está produzindo dados,
+tá bom? Vamos pro próximo slide lá. E aí
+eu quero trazer para você de uma forma
+bem clara e objetiva qual a diferença
+entre dado e informação, tá? Então, olha
+só. E aí tá aparecendo também, né, mais
+duas imagens ali no canto eh direito do
+nosso slide, onde eu trago essa essa
+retratação, né, de forma lúdica dos
+dados que eu mencionei agora para você,
+dos tabuleiros, né? Então ali tem ali o
+banco de dados, né? Quando o que que vem
+na sua mente quando você pensa banco de
+dados, será que é uma aquela aquela
+imagem que você é pode ver ali projetada
+no slide, né? Que está sendo projetada
+no slide. Então ali tem um banco, como
+se fosse um banco de madeira. né, que
+caiba mais ou menos três pessoas. É um
+banco só, mas que caiba três pessoas. E
+aí, quais qual é o quais quais são os
+componentes que estão ali sentados nesse
+banco, né? São três bonequinhos, tá?
+Como se fossem três pessoas, mas em
+forma de dados, né? Então aí a
+representação, banco para os dados
+sentarem, um banco de dados, tá? Só para
+fazer uma brincadeira lúdica aí. É claro
+que quando você fala o banco de dados,
+você pode ter essa representação, né? o
+seu seu cérebro ele pode representar,
+ele pode pintar isso na sua mente para
+você, mas não é desse banco de dados,
+né, que nós estamos falando, seria os
+dados que estão representados em grandes
+repositórios de dados, como se fossem
+grandes caixas de dados, onde você vai
+colocando ali todos os dados da sua
+empresa, do sistema que você tá
+desenvolvendo, do sistema que você está
+trabalhando. E aí, que que tá é sendo
+representado na outra parte de baixo
+ali, que é um uma representação gráfica
+do banco de dados, tá? Quando você for
+procurar na literatura, quando você for
+pesquisar na literatura sobre banco de
+dados, quando aparecer uma imagem, é
+essa imagem que vai aparecer para você,
+tá? Então, é como se fosse um baú em 3d
+ali, né? Quase como se fosse um baú
+tridimensional, né? como se ele tivesse
+uma tampa na parte de cima, né? Eh, e
+você pudesse abrir ele. Esse é o banco
+de dados, tá? E aí quando você abre ele,
+né? Você tá com o banco de dados aberto,
+você vai gravando, você vai consultando
+informação, mas se você tiver colocando
+informações ali dentro, pense como se
+fosse um baú, por exemplo, um cesto de
+roupas sujas. E você vai colocando as
+roupas ali. Pensa nessa representação,
+tá? Esse cesto de roupas é o banco de
+dados e as roupas que você vai colocando
+ali, né? as roupas sujas que você vai
+colocando ali são os dados, tá? Então é
+sempre essa imagem que você vai eh eh
+que você vai ter essa retratação do
+banco de dados em sistemas de
+informação. Perfeito? E aí eh a
+diferença entre dado e informação é
+básica, tá? Quando você tem um dado, eu
+posso virar para você e falar assim:
+"38. 38 é um dado, tá? Eh, agora, por
+que que ele é um dado? Porque ele não tá
+ligado a nenhuma informação. Porque
+quando eu falo 38, 38 pode ser um número
+qualquer, tá? Que não represente nada.
+Simplesmente o número 38, algo, né? O
+número que vem depois do do 37, né? E
+vem antes do 39, por exemplo, um número,
+tá? Agora o 38 ele pode ser a idade de
+uma pessoa. Ah, tá. Daí eu já tô
+associando alguma coisa para representar
+esse dado 38. O 38 ele pode ser o
+calibre de uma arma de fogo. Nós
+conhecemos, né? Sabemos que existem lá,
+existe lá um revólver que é o 38, é o
+calibre de uma arma, né? Nós temos
+músicas que citam, nós temos filmes que
+citam e eh essa questão aí do calibre de
+38, tá? Eh, então o que que eu tô
+querendo dizer? Quando você faz uma
+associação, né? Aí eu falo, ó, 38 é a
+idade de uma pessoa. Aí você associa uma
+informação a esse dado. Aí o 38 ele
+passa eh de ele passa eh de ser um dado
+isolado, ele passa a ser representado
+por essa informação que o 38 na verdade
+é a idade de uma pessoa, tá? Então isso
+é a informação associada ao dado. Então
+quando eu falo 38, é só um dado. Quando
+eu falo 38 é a idade de uma pessoa. 38 é
+o número de carros que tem naquele
+estacionamento, tá? O 38 é o número de
+uma casa, né? É o endereço dessa pessoa,
+certo? Então é uma informação associada.
+Essa é a diferença entre dado e
+informação. Tudo bem? Vamos lá no quadro
+mais uma vez, por favor. E aí nós temos
+eh alguns exemplos ali, né, dessa
+diferença aí também eh dessa questão do
+dado informação, por exemplo, né? Ah,
+qual é a pizzaria que tem a pizza mais
+barata e saborosa aqui perto de casa?
+Então eu posso falar para você, eu posso
+trazer informações agregadas a essa
+pizzaria, né? eh, que é esse exemplo aí,
+que ela é mais barata, quais sabores
+tem, onde é exatamente a localização e
+assim por diante. Eu posso falar para
+você o nome de um streaming, tá? Mas
+isso aí é um dado. Aí eu posso falar
+assim, ó, essa plataforma de filmes
+aqui, ela é mais atual, ela tem os
+filmes que eh acabaram de sair, filmes
+lançamentos. Então, eu tô dando, eu
+estou agregando eh informação aos meus
+dados. Perfeito. Lá no quadro nós temos
+mais um slide representando agora os
+tipos de dados,
+tá? Nessa projeção, nesse slide, nós
+temos mais duas imagens do lado direito,
+tá? No topo, do lado direito, mais na
+parte de cima, no topo, eu tenho a
+representação de uma tabela. Eu tenho
+uma tabela ali com três colunas. A
+primeira coluna é o código, a segunda
+coluna é o nome, a terceira coluna o
+telefone. Então tem uma tabela
+representando dados de algumas pessoas.
+Essas pessoas podem ser clientes, podem
+ser fornecedores, podem ser usuários,
+podem ser alunos, professores. Isso,
+isso eu não tenho, essa representação,
+essa informação, eu não tenho. Eu tenho
+uma tabela com esses três, com essas
+três colunas, código, nome e telefone. E
+aí eu tenho os dados, as informações que
+estão ali dentro dessa tabela. Então, eu
+tenho seis linhas. A primeira linha lá
+eu tenho código um, nome Ana e um
+telefone. Na segunda linha eu tenho mais
+alguns dados. na terceira, na quarta, na
+quinta e na sexta eu tenho também ali o
+código seis, o nome Felipe e mais também
+um telefone associado a a esse nome aí
+ao Felipe.
+Perfeito. Embaixo, né, logo abaixo dessa
+tabela, eu tenho uma outra imagem
+representando um outro tipo de dado,
+tá? Que é o Jzon. E aí para entender a
+diferença, né, dessa tabela que tá
+formatada em linhas e colunas e os dados
+que estão ali embaixo, que é o Jzon, eu
+vou falar para você então dos tipos de
+dados, que é o que você tá vendo no
+slide aí, tá? E aí nós temos três
+categorias. Nós temos os estruturados,
+nós temos os semiestruturados e nós
+temos também os não estruturados.
+Perfeito? Então o que que vem a ser aí
+cada um deles? Quando eu falo que eu
+tenho dados estruturados, aí eu posso
+dar o exemplo dessa tabela que é a
+imagem do lado direito que está acima
+aí, né, que tá na parte de cima, tá bom?
+É um exemplo de dados estruturados. Por
+quê? Porque é o que é armazenado em um
+banco de dados. Eu posso ter esse
+armazenamento também em uma planilha lá
+do Google Sheets, tá? Que é uma
+ferramenta que nós vamos trabalhar
+bastante, que é o planilhas, né, do
+Google lá, o Google, o Google Sheets,
+tá? E então eu tenho essa estruturação
+em forma de tabelas, que é o que tô
+representando ali através dessa imagem,
+da imagem dessa tabela para você, tá?
+Com as três colunas. Repito novamente,
+código, nome e telefone, perfeito?
+Então, é um exemplo de dados
+estruturados. Aí eu tenho ali os dados
+semiestruturados. Vamos dar uma olhada
+na descrição, tá? Semiestruturados. Tem
+alguma organização, né? tem alguma
+organização, mas não é totalmente
+organizada como os dados estruturados.
+Estamos falando do semi agora. Então tem
+algum tipo de organização, mas não
+seguem um padrão fixo. Quais são
+exemplos de dados semiestruturados? Por
+exemplo, quando você tá eh mandando um
+e-mail, então recebendo um e-mail de uma
+pessoa. Vamos usar o exemplo de receber
+e-mail de várias pessoas, tá? Concorda
+comigo que não é padrão? Porque uma
+pessoa vai escrever o e-mail em um
+formato, outra pessoa vai escrever um um
+outro e-mail de um outro jeito, em um
+outro formato. Um e-mail pode ter, por
+exemplo, alguma imagem, o outro e-mail
+pode não ter imagem. Um e-mail de uma
+pessoa A pode ter algumas tabelas. O
+e-mail dessa pessoa B podem ter outras
+informações, podem não ter tabelas, tá?
+Podem ter arquivos anexos, tá? Agora,
+então aí é a parte que não é padrão.
+Agora, o que que é padrão? Então, todo
+e-mail vai ter um destinatário, aliás,
+vai ter você como destinatário, porque
+você está recebendo, então todos os
+e-mails foram encaminhados para você e
+vai ter ali de quem que veio, quem que
+enviou o e-mail, né? Não foram as mesmas
+pessoas, mas vai ter essa informação,
+vai ter também a informação da data e
+horário que a pessoa mandou. Então,
+esses dados, vamos falar assim, esses
+daí são organizados, mas por que que
+eles são, por que que ele, por que que o
+e-mail é o exemplo de um dado
+semiestruturado? Porque embora ele tenha
+algumas padronizações, né, como eh de
+quem e para quem, né, eh ali também a
+hora e a data que foi enviado, que foi
+recebido o e-mail, ele não tem todo o
+padrão, porque esse exemplo que eu dei,
+você recebendo três e-mails de três
+pessoas diferentes, o corpo do e-mail
+não vai ser padronizado. Concorda
+comigo? Então, pode ser que aconteça ali
+algumas coisas diferentes de um e-mail
+para o outro e-mail. Vamos lá no quadro,
+por gentileza. E aí nós temos ali eh um
+outro exemplo que é o arquivo JZON, esse
+mesmo exemplo aí dos semiuturados. E aí
+vamos lá novamente pra imagem. Agora a
+imagem de baixo, abaixo da tabela, tem
+uma outra imagem que é um recorte ali de
+algumas informações, né, de dados
+padronizados em
+Jzon, tá? JavaScript eh object notation.
+é uma anotação eh eh JavaScript para
+você representar valores, para você
+representar um dado. Então ali, como
+você tá vendo, né, como nós como está
+sendo projetado ali, são eh dados de uma
+pessoa em específico. Quais os dados que
+eu tenho ali? Nome, qual é o valor desse
+nome? Anderson. Qual é uma outra
+informação? Idade. 46. Então, 46 é o
+valor do idade. Londrina, tá? Londrina é
+o valor de cidade. Aí eu tenho o número
+de telefone ali para o para essa
+informação, né? Completando essa
+informação de telefone. Também tem um
+e-mail aleatório ali que eu coloquei o
+meu, né? Eh, eh, fictício, claro,
+anderson@gmail.com. Ele vai dar o valor
+ali para esse para esse campo ali
+e-mail, tá? Então, esse padrão é um
+padrão Jon.
+No começo ele começa com um caracter
+abre chaves e lá no final, né, de eh
+dentro eu vou ter o nome, a idade,
+cidade, telefone, e-mail com esses
+valores que eu citei. E lá no final eu
+fecho as chaves que eu abri lá em cima.
+Esse é o padrão de dados nesse formato
+Jon. Perfeito. E aí eu tenho o terceira,
+a terceira categoria, que são os dados
+não estruturados. Olha só, informações
+sem formato definido. Aí eu tenho alguns
+exemplos, exemplo, vídeo, vídeos, tá?
+Então não tem um formato definido, a
+começar pela extensão. Um pode ser MP4,
+né? Outro pode ser eh AVI. Então eu
+tenho algumas extensões de vídeos
+diferenciadas e eu também tenho eh tempo
+de vídeo diferente, eh por exemplo,
+gênero, né, de vídeos, né? Então tem uma
+série de dados dentro do vídeo que são
+diferentes, ou seja, não são
+estruturados, tá? Então são exemplos de
+dados não estruturados, vídeos e e
+também as postagens em redes sociais, as
+os famosos eh stories, né? Quando você
+vê lá os stories, cada story pode ser de
+um jeito com um padrão diferente, né?
+Tem store que tem música, tem store que
+não tem. Tem store que você coloca uma
+foto só, tem store que você faz uma
+moldura lá e consegue colocar três ou
+quatro fotos. Tem fotos que você coloca
+o antes e depois. Tem fotos você coloca
+um monte de gif, né, que são aquelas
+figurinhas animadas que você pode
+incluir na sua postagem de story ou
+story simples. Tem foto que tem story
+que você coloca legenda e outros não.
+Então são dados não estruturados.
+Perfeito. Bom, nessa aula nós vamos
+ficando por aqui e vamos lá no slide
+novamente. Eu quero somente apresentar
+ali para você o conteúdo da nossa
+próxima aula. Vamos lá comigo, ó. Então
+ali, ó, eh como qual é o tema da próxima
+aula, como os dados são utilizados na
+inteligência artificial, tá? Então nós
+vamos falar um pouquinho de inteligência
+artificial na próxima aula. É o nosso
+IA. OK? Te espero lá. Um grande abraço e
+até mais.
