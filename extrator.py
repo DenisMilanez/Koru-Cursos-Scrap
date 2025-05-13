@@ -1,9 +1,7 @@
 import requests
-
 import os
 import unicodedata
 from youtube_transcript_api import YouTubeTranscriptApi
-import tkinter as tk
 from tkinter import messagebox
 import time
 
@@ -134,6 +132,7 @@ def extrator_cursos(email, senha, atualizar_terminal):
         atualizar_terminal(f'Erro no login: {response_login.status_code}')
 
     atualizar_terminal('#' * 10 + ' FIM ' + '#' * 10)
+    session.close()
 
 
 ########## FUNÇÃO PEGAR LEGENDA DO YOUTUBE ##########
@@ -141,6 +140,7 @@ def legenda_youtube(youtube_url, atualizar_terminal):
     '''Obtém a legenda de um vídeo do YouTube com tentativa múltipla'''
 
     atualizar_terminal(f'youtube_url: {youtube_url}')
+    # atualizar_terminal('youtube_url: >> print do {youtube_url} <<') # para não aparecer os links na exibição
     id_youtube = youtube_url.split('/')[-1].split('?')[0]  # extrai id video
     tentativas = 0 # tentativa pois ocorrem falhas com a api (pois ñ resolveu com timesleep)
 
